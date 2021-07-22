@@ -1,1 +1,3 @@
 # iOS-Termux
+
+There is some repos, which rewrited for iOS Termux. Maybe you know that the iOS Termux is not the same as Android Termux or Kali Nethunter...
